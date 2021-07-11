@@ -5,6 +5,7 @@
   "author": "Chris Pettitt <cpettitt@gmail.com>",
   "license": "MIT",
   "main": "index.js",
+  "types": "index.d.ts",
   "files": [
     "index.js",
     "dist/",
